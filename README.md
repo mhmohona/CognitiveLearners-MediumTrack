@@ -1,8 +1,13 @@
 # CognitiveLearners-MediumTrack
 Adding all resources and works I am doing as a part of Secure and private AI challenge Scholarship #sg_cognitive-learners - medium track team.
 
-
 ## Topic : image denoising using autoencoder
+
+Team Members: 
+1. Samrat Mukherjee (suggested the topic and providing instractions how to move forword) 
+2. Shivam Raisharma
+3. Mahfuza Humayra Mohona
+
 
 ## Important links to follow: 
 - http://dkopczyk.quantee.co.uk/dae-part3/ 
